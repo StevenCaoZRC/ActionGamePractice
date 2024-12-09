@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Unreal/ActionGamePractice/ActionGame/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/Unreal/ActionGamePractice/ActionGame/Content/ParagonTerra/Characters/Heroes/Terra/Skins/MountainForge/Meshes/Terra_MountainForge.uasset",
+				"D:/Unreal/ActionGamePractice/ActionGame/Content/Animations/ABP_Player_Terra.uasset",
+				"D:/Unreal/ActionGamePractice/ActionGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset",
+				"D:/Unreal/ActionGamePractice/ActionGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/6S/LG5ZQSJLXZ8T6K58DOHXAY.uasset",
+				"D:/Unreal/ActionGamePractice/ActionGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/OG/2XSFKW6M5XRHSLCCRBTQFR.uasset",
+				"D:/Unreal/ActionGamePractice/ActionGame/Content/Animations/ABP_Boss_Grux.uasset",
+				"D:/Unreal/ActionGamePractice/ActionGame/Content/Characters/BP_Boss.uasset"
+			]
+		}
+	]
+}
